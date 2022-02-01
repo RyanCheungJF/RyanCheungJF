@@ -21,11 +21,10 @@ My name is Ryan and I am currently an Year 2 Computer Science Undergraduate in N
 
 Looking to specialize in networking + distributed systems in the future!
 
-Currently looking for a 12 week summer internship in the months of May - Aug 2022!
-
 ### Current Side Projects:
 
 - SunNUS 22 App for Participants (React-Native, TypeScript, Firebase)
+- NUS SIC Infinart Backend (PERN)
 
 Feel free to reach out at ```ryan9cheung@gmail.com```.
 
@@ -37,18 +36,20 @@ Feel free to reach out at ```ryan9cheung@gmail.com```.
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=red&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=orange&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=yellow&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=%14B8A6" />
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-0284C7?logo=Firebase&logoColor=FFCA28&style=for-the-badge" />
 </p>
 
 ### Stacks/ Languages I hope to pick up soon!
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=black&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-white?logo=TailwindCSS&logoColor=06B6D4&style=for-the-badge" />
 </p>
 
 
