@@ -25,8 +25,7 @@ Currently interested in learning how to develop nicer UIs, experimenting more on
 
 ### Current Side Projects:
 
-- SunNUS 22 App for Participants (React-Native, TypeScript, Firebase)
-- FullStackOpen 22
+- SunNUS 22 App for Participants (React-Native, TypeScript, Firebase, Expo)
 
 Feel free to reach out at ```ryan9cheung@gmail.com```.
 
