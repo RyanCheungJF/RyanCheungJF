@@ -17,15 +17,16 @@
 -->
 
 ### Hi there! 👋
-My name is Ryan and I am currently an Year 2 Computer Science Undergraduate in NUS!
+My name is Ryan and I am currently a Year 3 Computer Science Undergraduate in NUS, with focus areas in Software Engineering and Networks.
 
-Looking to specialize in networking + software engineering in the future.
+I love picking up new projects and experimenting with new tech stacks. Right now, I'm really interested in picking up new technologies such as `Go`, `Next`, `Tailwind` and `Solidity`!
 
-Currently interested in learning how to develop nicer UIs, experimenting more on Tailwind, Next/ Nuxt and looking to dip my toes into blockchain tech!
 
+<!--
 ### Current Side Projects:
 
-- SunNUS 22 App for Participants (React-Native, TypeScript, Firebase, Expo)
+-
+-->
 
 Feel free to reach out at ```ryan9cheung@gmail.com```.
 
@@ -33,27 +34,31 @@ Feel free to reach out at ```ryan9cheung@gmail.com```.
 
 ### Current Stacks/ Languages/ Frameworks
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=f89820&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=orange&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=yellow&style=for-the-badge" />
-  <img alt="ReactJS" src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-ff6188?style=for-the-badge&logo=react&logoColor=%14B8A6" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-0284C7?logo=Firebase&logoColor=FFCA28&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
-</p>
+```python
+languages = set()
+languages.add('Java')
+languages.add('Python')
+languages.add('JavaScript')
+languages.add('TypeScript')
 
-### Stacks/ Languages I hope to pick up soon!
+frontend = set()
+frontend.add('React')
+frontend.add('React Native')
+frontend.add('Vue')
 
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-0f766e?logo=TailwindCSS&logoColor=06B6D4&style=for-the-badge" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-042B59?logo=Flutter&logoColor=027DFD&style=for-the-badge" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=Solidity&logoColor=363636&style=for-the-badge" />
-</p>
+backend = set()
+backend.add('Express')
+backend.add('Firebase')
+backend.add('SpringBoot')
 
+db = set()
+db.add('MySQL')
+db.add('PostgreSQL')
+db.add('TigerGraph')
+db.add('Neo4j')
+
+```
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanCheungJF&count_private=true&custom_title=Ryan+Cheung's+GitHub+Stats&show_icons=true&theme=radical" />
+
+<img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="200" height="200">
