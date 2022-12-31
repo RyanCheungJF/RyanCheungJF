@@ -16,49 +16,40 @@
 </p>
 -->
 
-### Hi there! 👋
-My name is Ryan and I am currently a Year 3 Computer Science Undergraduate in NUS, with focus areas in Software Engineering and Networks.
+## *Hola!* 🤠
 
-I love picking up new projects and experimenting with new tech stacks. Right now, I'm really interested in picking up new technologies such as `Go`, `Next`, `Tailwind` and `Solidity`!
+I'm a full stack developer who loves working on new projects and picking up new things.
 
+Currently, I'm a penultimate student studying Computer Science in NUS with a focus area in SWE.
 
-<!--
-### Current Side Projects:
+### Here's what I'm currently working on:
 
--
--->
+🍒 **My own UI library for future projects, extended via Headless + Radix!**
+
+🌶 **A fullstack web app for GDSC NUS under FoodBank SG!**
+
+### Hoping to learn...:
+
+🍑 **Go** 
+🥑 **RabbitMQ**
+🥝 **Docker**
+🍇 **AWS**
+🥥 **Next**
+🍌 **Solidity**
+🥬 **Supabase**
 
 Feel free to reach out at ```ryan9cheung@gmail.com```.
 
-<a href="https://www.linkedin.com/in/ryan-cheung-jf"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+### Some things I've worked with:
 
-### Current Stacks/ Languages/ Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,py,react,firebase,nodejs,tailwind,postgres,mysql,ts" />
+  </a>
+</p>
 
-```python
-languages = set()
-languages.add('Java')
-languages.add('Python')
-languages.add('JavaScript')
-languages.add('TypeScript')
+<br>
 
-frontend = set()
-frontend.add('React')
-frontend.add('React Native')
-frontend.add('Vue')
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RyanCheungJF&count_private=true&custom_title=Ryan+Cheung's+GitHub+Stats&show_icons=true&theme=radical" />
 
-backend = set()
-backend.add('Express')
-backend.add('Firebase')
-backend.add('SpringBoot')
-
-db = set()
-db.add('MySQL')
-db.add('PostgreSQL')
-db.add('TigerGraph')
-db.add('Neo4j')
-
-```
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RyanCheungJF&count_private=true&custom_title=Ryan+Cheung's+GitHub+Stats&show_icons=true&theme=radical" />
-
-<img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="200" height="200">
+<p align="center"><a href="https://www.linkedin.com/in/ryan-cheung-jf"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
