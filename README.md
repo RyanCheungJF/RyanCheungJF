@@ -18,31 +18,31 @@
 
 ## *Hola!* 🤠
 
-I'm a software engineer who loves working on new projects and picking up new things.
+I'm a recent CS graduate, now working as a Backend Software Engineer working with a Java stack.
 
 ### Here's what I'm currently working on:
 
-🍒 **My own UI library for future projects, extended via Headless + Radix!**
+🍒 **Raspberry Pis!**
 
-🌶 **Picking up Spring, Go, AWS and Docker + K8s!**
+🌶 **Finally got a Mac, so might play around with its configs and zshrc!**
 
 ### Hoping to learn...:
 
 🍑 **Go** 
-🥑 **RabbitMQ**
+🥑 **Cloud Platforms**
 🥝 **Docker**
-🍇 **AWS**
-🥥 **Spring**
-🍌 **Solidity**
-🥬 **Supabase**
+🍇 **K8s**
+🥥 **SpringBoot**
 
-Feel free to reach out at ```ryan9cheung@gmail.com```.
+### Some past projects I've worked on:
+
+- Worked with [FoodBank SG](https://foodbank.sg/) to create an e-commerce style donation platform. Donate now [here](https://martforgood.foodbank.sg/)!
 
 ### Some things I've worked with:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,docker,fastapi,py,java,react,firebase,nodejs,express,tailwind,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,docker,kafka,fastapi,py,react,firebase,nodejs,express,tailwind,java,maven,spring,redis,postgres,mysql,mongodb" />
   </a>
 </p>
 
